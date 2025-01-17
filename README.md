@@ -4,7 +4,8 @@
 **Lessons:** 1-85  
 **Year:** 2018  
 **Grade Taught:** 12th  
-**AI Rating:** 5.5/10
+**AI Rating:** 5.5/10  
+
 ---
 
 **About These Summaries**
