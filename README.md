@@ -1,4 +1,4 @@
-# Abeka Genesis: Summarized Lessons (Creation - Babel)
+# Abeka Economics: Summarized Lessons
 
 **Course:** Economics  
 **Lessons:** 1-85  
